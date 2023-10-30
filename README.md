@@ -76,9 +76,3 @@ The code performs basic time series analysis, including:
 ## Running the Code
 
 You can run the code by copying it into a Python script or Jupyter Notebook. Ensure that you have the required libraries installed, and replace 'craigslist_vehicles.csv' with your dataset file if necessary.
-
-## Note
-
-This README serves as a high-level overview of the code. For detailed information on each step and more in-depth analysis, refer to the code comments and documentation.
-
-Enjoy exploring your time series data with this guide!
