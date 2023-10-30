@@ -1,6 +1,6 @@
 # Car-Sale-Exploratory-Data-Aanalysis
 
-##Introduction
+#Introduction
 
 This code and guide provide an overview of how to perform time series analysis and visualization using Python libraries such as `geopandas`, `folium`, `scipy`, `matplotlib`, `seaborn`, and `statsmodels`. The analysis is demonstrated using a dataset containing information about vehicles listed on Craigslist. The code covers data preprocessing, visualization, and basic time series analysis techniques.
 
